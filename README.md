@@ -25,7 +25,7 @@ This project aims to predict crop diseases using machine learning techniques. It
 **Installation**
 
   1)Clone the repository:
-    git clone https://github.com/Rohit-Borde/Crop-Disease-Prediction.git
+    git clone https://github.com/Rohit-Borde0809/Crop-Disease-Prediction.git
   
   2)Navigate to the project directory:
     cd Crop-Disease-Prediction
